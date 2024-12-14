@@ -1,3 +1,4 @@
+![logo](https://github.com/SubhamKrSingh/SubhamKrSingh/blob/main/banner.png)
 <h1>Hi 👋, I'm Subham</h1>
 <p>Instead of using GitHub, I read my code out loud and publish it as an audiobook.</p>
 <h2>🚀 Languages and Tools I Use</h2>
